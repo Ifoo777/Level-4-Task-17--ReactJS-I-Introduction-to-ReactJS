@@ -1,0 +1,20 @@
+/*Style the body and content*/
+body{
+    padding: 5%;
+    background: black;
+    color: lime;
+}
+h2{
+    color:blue;
+}
+table{
+    width:90%;
+}
+ul{
+    width:90%;
+}
+/*Set class attribute*/
+.profilePhoto{
+    width:10%;
+    border-radius: 50%;
+}
